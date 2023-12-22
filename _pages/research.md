@@ -1,3 +1,8 @@
+---
+permalink: /research/
+author_profile: true
+---
+
 ## JOURNAL & CONFERENCE ARTICLES
 
 M. Giordano and **A. Wahal**. 2023. India, China and the Brahmaputra: Dams as the New Boundary Stones? International Journal of Water Resources Development. (*Under Review*)
