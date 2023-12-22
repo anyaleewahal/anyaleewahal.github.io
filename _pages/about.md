@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Taiwanese-Indian-American water resources scholar and storyteller. I'm interested in the intersection between water and policy — and, critically, harnessing research to inform policy and uplift marginalized communities .
+Hi! I'm a Taiwanese-Indian-American water resources scholar and storyteller. I'm interested in the intersection between water and policy — and, critically, harnessing research to inform policy and uplift marginalized communities.
 
 I graduated from Georgetown in 2023 with a B.S. in Science, Technology, & International Affairs, concentrating in Energy and the Environment, and minoring in Chinese. At Georgetown, I was fortunate to conduct research with Professors Mark Giordano and Rajesh Veeraraghavan. 
 
