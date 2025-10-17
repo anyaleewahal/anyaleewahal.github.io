@@ -7,7 +7,9 @@ title: Research
 
 ## JOURNAL & CONFERENCE ARTICLES
 
-M. Giordano and **A. Wahal**. 2023. India, China and the Brahmaputra: Dams as the New Boundary Stones? International Journal of Water Resources Development. (*Under Review*)
+Wahal, A., E. Mendenhall, and M. Giordano. 2023. “Water in the West: Analyzing the Impact of Colorado River Basin Shortages on Farming and Development in Arizona.” Journal of Rural Studies.
+
+M. Giordano and A. Wahal. 2023. India, China and the Brahmaputra: Dams as the New Boundary Stones? International Journal of Water Resources Development. 
 
 Baharav, Y., L. Nichols, **A. Wahal**, O. Gow, K. Shickman, M. Edwards, and K. Huffling. 2023. “The Impact of Extreme Heat Exposure on Pregnant People and Neonates: A State of the Science Review.” Journal of Midwifery & Women’s Health. [https://doi.org/10.1111/jmwh.13502](https://doi.org/10.1111/jmwh.13502).
 
@@ -24,6 +26,3 @@ H. Chakraborty, B. Bell, **A. Wahal**, S.A. Varde, S. Colloredo-Mansfeld, and R.
 Giordano, M., and **A. Wahal**. 2022. “The Water Wars Myth: India, China and the Brahmaputra.” United States Institute of Peace. December 8, 2022. [https://www.usip.org/publications/2022/12/water-wars-myth-india-china-and-brahmaputra/](https://www.usip.org/publications/2022/12/water-wars-myth-india-china-and-brahmaputra/)
 
 **Wahal, A**. 2022. “On International Treaties, the United States Refuses to Play Ball.” Council on Foreign Relations. January 7, 2022. [https://www.cfr.org/blog/international-treaties-united-states-refuses-play-ball](https://www.cfr.org/blog/international-treaties-united-states-refuses-play-ball).
-
-## WORKING PAPERS
-**Wahal, A.**, E. Mendenhall, and M. Giordano. 2023. “Water in the West: Analyzing the Impact of Colorado River Basin Shortages on Farming and Development in Arizona.”
