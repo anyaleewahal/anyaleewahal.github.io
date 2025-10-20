@@ -7,13 +7,13 @@ title: Research
 
 ## JOURNAL & CONFERENCE ARTICLES
 
-**Wahal, A.**, E. Mendenhall, and M. Giordano. 2023. “Water in the West: Analyzing the Impact of Colorado River Basin Shortages on Farming and Development in Arizona.” Journal of Rural Studies.
+**Wahal, A.**, E. Mendenhall, and M. Giordano. 2023. “Water in the West: Analyzing the Impact of Colorado River Basin Shortages on Farming and Development in Arizona.” _Journal of Rural Studies_ 111 (October): 103398. https://doi.org/10.1016/j.jrurstud.2024.103398.
 
-M. Giordano and **A. Wahal**. 2023. India, China and the Brahmaputra: Dams as the New Boundary Stones? International Journal of Water Resources Development. 
+M. Giordano and **A. Wahal**. 2023. India, China and the Brahmaputra: Dams as the New Boundary Stones? _International Journal of Water Resources Development_ 40 (6): 1032–52. https://doi.org/10.1080/07900627.2024.2388651.
 
-Baharav, Y., L. Nichols, **A. Wahal**, O. Gow, K. Shickman, M. Edwards, and K. Huffling. 2023. “The Impact of Extreme Heat Exposure on Pregnant People and Neonates: A State of the Science Review.” Journal of Midwifery & Women’s Health. [https://doi.org/10.1111/jmwh.13502](https://doi.org/10.1111/jmwh.13502).
+Baharav, Y., L. Nichols, **A. Wahal**, O. Gow, K. Shickman, M. Edwards, and K. Huffling. 2023. “The Impact of Extreme Heat Exposure on Pregnant People and Neonates: A State of the Science Review.” _Journal of Midwifery & Women’s Health_. [https://doi.org/10.1111/jmwh.13502](https://doi.org/10.1111/jmwh.13502).
 
-H. Chakraborty, B. Bell, **A. Wahal**, S.A. Varde, S. Colloredo-Mansfeld, and R. Veeraraghavan. 2020. Reluctant Intermediaries: Examining the Labor in Opening Government Data. Data4Good: Designing for Diversity and Development.
+H. Chakraborty, B. Bell, **A. Wahal**, S.A. Varde, S. Colloredo-Mansfeld, and R. Veeraraghavan. 2020. Reluctant Intermediaries: Examining the Labor in Opening Government Data. _Data4Good_: Designing for Diversity and Development.
 
 ## THINK TANK PUBLICATIONS
 
